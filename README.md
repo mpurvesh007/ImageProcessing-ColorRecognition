@@ -77,6 +77,22 @@ The implemented solution successfully recognizes colors in noisy, original, and 
 2. Run `noise_images.py`, `org_images.py`, or `rot_images.py` based on the type of image.
 
 
-## Report
+## Important
+# Image Processing Coursework Assignment
 
-The detailed report can be found in the project directory, providing insights into each function's workings, design decisions, performance assessments, and suggestions for improvements.
+This repository contains my solution for a image processing coursework assignment as part of the Image Processing module in Msc. Data Science at University of Sussex. The assignment was completed during the 2022-2023 year.
+
+## Disclaimer
+**Note to Course Instructors and Evaluators:**
+This project represents my individual effort and understanding of the coursework requirements. It is submitted in fulfillment of the academic requirements for the Image Processing module. The code and documentation are provided for educational purposes and as a showcase of my learning progress.
+
+**Academic Integrity:**
+I have adhered to the principles of academic integrity throughout the completion of this assignment. Any external resources, code snippets, or references used are appropriately cited in the code and documentation.
+
+## Important Notice to Future Students
+**Attention:** This project, including its code, documentation, and any associated materials, is the result of my individual effort and understanding. Future students are hereby informed not to copy or reproduce any part of this project. Such actions may be considered a violation of academic integrity policies, which could lead to severe consequences, including but not limited to disciplinary action by the university. I, the original author, will not be held responsible for any repercussions resulting from the misuse of this work by others. It is strongly advised to adhere to the principles of academic integrity and conduct your own work independently.
+
+**Note:** Always refer to your university's policies on academic integrity and honor codes.
+
+
+*Note: This README is designed to be transparent about the nature of the project and to comply with academic honesty policies.*
